@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knifes>
+    <knife>
+        <name>Stone Age</name>
+        <type>hand axes</type>
+        <description>a prehistoric stone tool having one end pointed for cutting and the other end rounded for holding in the hand.</description>
+        <users>
+            <country>England</country>
+            <country>Egypt</country>
+            <country>Europe</country>
+            <country>Northern France</country>
+        </users>
+    </knife>
+    <knife>
+        <name>Bronze Age</name>
+        <type>Spears</type>
+        <description>a sharp-pointed instrument with barbs used in spearing fish.</description>
+        <users>
+            <country>Japan</country>
+            <country>Roman Empire</country>
+            <country>Vietnam</country>
+            <country>America</country>
+            </users>
+    </knife>
+    <knife>
+     <name>Iron Age</name>
+        <type>iron sickles</type>
+        <description>Normally sickles are sharp on the inside . This implement is called a sickle because it has a curved blade though it may not in antiquity have functioned as a typical reaping implement.</description>
+        <users>
+            <country>Spain</country>
+            <country>China</country>
+            <country>Middle East</country>
+            <country>Poland</country>
+        </users>
+        </knife>
+    <knife>
+        <name>Middle Age</name>
+        <type>rondel dagger</type>
+        <description>A rondel dagger or roundel dagger was a type of stiff-bladed dagger in Europe in the late Middle Ages (from the 14th century onwards), used by a variety of people from merchants to knights. It was worn at the waist and might be used as a utility tool, or worn into battle or a jousting tournament as a side-arm.</description>
+        <users>
+            <country>Russian</country>
+            <country>Indian</country>
+            <country>Arabian</country>
+            <country>Afghan</country>
+        </users>
+    </knife >
+    <knife>
+        <name>Modern Age</name>
+        <type> bread knife</type>
+        <description>The serrated blades of bread knives are able to cut soft bread without crushing it.</description>
+        <users>
+            <country>United States</country>
+            <country>Columbia</country>
+            <country>New York</country>
+            <country>Germany</country>
+        </users>
+    </knife>
+
+
+</knifes>
